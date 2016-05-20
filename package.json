@@ -1,0 +1,62 @@
+{
+  "name": "bed-rest",
+  "version": "1.1.0",
+  "description": "A REST Client API Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/department-se/bed.git"
+  },
+  "keywords": [
+    "rest",
+    "client",
+    "bed",
+    "api",
+    "generator"
+  ],
+  "author": {
+    "name": "Robert Sköld",
+    "email": "robert@department.se"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/department-se/bed/issues"
+  },
+  "homepage": "https://github.com/department-se/bed",
+  "dependencies": {
+    "debug": "^2.1.2",
+    "methods": "^1.1.1",
+    "superagent": "^1.1.0"
+  },
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "chai-as-promised": "^4.3.0",
+    "mocha": "^2.1.0"
+  },
+  "gitHead": "eaf2d81193f110cfcd610fc0094eed5c08aa53a1",
+  "_id": "bed-rest@1.1.0",
+  "_shasum": "171b4fc6629d8cea4fb655e69bcae898afa417a3",
+  "_from": "bed-rest@>=1.1.0 <2.0.0",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "name": "slaskis",
+    "email": "robert@publicclass.se"
+  },
+  "maintainers": [
+    {
+      "name": "slaskis",
+      "email": "robert@publicclass.se"
+    }
+  ],
+  "dist": {
+    "shasum": "171b4fc6629d8cea4fb655e69bcae898afa417a3",
+    "tarball": "http://registry.npmjs.org/bed-rest/-/bed-rest-1.1.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/bed-rest/-/bed-rest-1.1.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
